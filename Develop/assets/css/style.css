@@ -8,23 +8,23 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+.header <h1> {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+.header <h1> <title>  {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header <h1> .seo {
     color: #d9dcd6;
 }
 
-.header div {
+.header <h2> <section> {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header <h2> <section> ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header <section> ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -161,7 +161,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization img alt =<" {
     max-height: 200px;
 }
 
